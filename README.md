@@ -1,10 +1,13 @@
 # Traffic Turbo 🏍️
 
 Traffic Turbo is a road based environment where the agent (top left corner) is trained to reach his home (bottom right corner). The training & Testing for one of the random environments can be seen [here](https://www.youtube.com/watch?v=TfjtjKFSpmE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TfjtjKFSpmE/0.jpg)](https://www.youtube.com/watch?v=TfjtjKFSpmE)
+
 
 
 ## The enviroment
 ![Capture](https://user-images.githubusercontent.com/31255225/154457530-fd36e042-6f3f-434a-84f4-f2f0374e7800.JPG)
+
 
 The environment consists of the following elements
 
