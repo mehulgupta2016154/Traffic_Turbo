@@ -11,11 +11,11 @@ Traffic Turbo is a road based environment where the agent (top left corner) is t
 
 The environment consists of the following elements
 
-- Road : Reward = -3
-- Boost : Reward = 0
-- Traffic Signal : -20
-- Car Jam : -50
-- House: 500
+- Road :                 Reward =-3
+- Boost :                Reward = 0
+- Traffic Signal :       Reward =-20
+- Car Jam :              Reward =-50
+- House:                 Reward = 500
 
 The end goal of the agent is to take up an optimal path so as to keep a high reward at the end of the episode. Any move is considered invalid if
 
