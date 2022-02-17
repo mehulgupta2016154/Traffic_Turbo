@@ -30,7 +30,7 @@ This has been done using Pygame library that provides GUI components & animation
 
 The agent has been trained using Q Learning technique in Reinforcement learning for ~2.k episodes using random states as initialization point for each episode. 
 
-## Pretrained enviromnets
+## Pretrained environments
 
 For playing around, weights for 2 environments have been trained till 2k episodes & stored in env_weights function. For trying, initialize the game_env object with '1' or 'final_v'
 
