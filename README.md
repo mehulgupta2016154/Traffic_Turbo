@@ -34,6 +34,6 @@ The agent has been trained using Q Learning technique in Reinforcement learning 
 
 For playing around, weights for 2 environments have been trained till 2k episodes & stored in env_weights function. For trying, initialize the game_env object with '1' or 'final_v'
 
-Read more on[Medium](https://medium.com/data-science-in-your-pocket/game-development-using-pygame-reinforcement-learning-with-example-f5b78c768610)
+Read more on [Medium](https://medium.com/data-science-in-your-pocket/game-development-using-pygame-reinforcement-learning-with-example-f5b78c768610)
 
 
