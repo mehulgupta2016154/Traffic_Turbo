@@ -35,7 +35,9 @@ blocked_dirs: []
 #
 # docs:
 #   - PyGitHub: ["https://pygithub.readthedocs.io/en/latest/", "We use pygithub to interact with the GitHub API"]
-docs: []
+docs:
+  - Sweep Documentation: ["https://docs.sweep.dev/usage/config", "Sweep configuration documentation"]
+  - PyGithub Documentation: ["https://pygithub.readthedocs.io/en/latest/", "PyGithub library documentation"]
 
 # Sandbox executes commands in a sandboxed environment to validate code changes after every edit to guarantee pristine code. For more details, see the [Sandbox](./sandbox) page.
 sandbox:
