@@ -1,5 +1,8 @@
 name: Python Workflow
 
+permissions:
+  read
+
 on:
   push:
     branches:
