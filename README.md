@@ -1,12 +1,11 @@
-## Pretrained environments
+# Traffic Turbo 🏍️
+## Additional Information on Pretrained Environments
 
 For playing around, weights for 2 environments have been trained till 2k episodes & stored in env_weights function. For trying, initialize the game_env object with '1' or 'final_v'
 
 This repository utilizes Sweep, a tool that aids in the automation and management of machine learning experiments. It allows for efficient hyperparameter tuning, tracking of experiment metrics, and comparison of different experiment runs.
 
 Read more on [Medium](https://medium.com/data-science-in-your-pocket/game-development-using-pygame-reinforcement-learning-with-example-f5b78c768610)
-
-
 
 
 ## The enviroment
